@@ -1,0 +1,17 @@
+.footer {
+    height: 74px;
+    background-color: rgb(2, 52, 102);
+
+}
+
+.footer div {
+    display: flex;
+    padding: 2% 30%;
+    justify-content: space-evenly;
+    position: relative;
+    right: 30%;
+}
+
+.footer div img {
+    width: 20px;
+}
